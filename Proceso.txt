@@ -1,0 +1,39 @@
+Proceso Personal 
+    1. Crear cuenta en Git
+    2. Instalar Unity    
+    3. Instalar Visual code/ Visual studio 
+    4. Instalar Git
+    5. Tutorial de Git
+    6. Tutorisl de C#
+    7. Tutorial de Unity basico en 2D
+
+1. Finalizado
+2. Finalizado
+3. Finalizado
+4. Finalizado
+5. En Proceso 5/15
+6. En Proceso 0/16
+7. En Proceso 0/10
+
+8. Talleres tomados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
